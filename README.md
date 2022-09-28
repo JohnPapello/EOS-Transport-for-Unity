@@ -5,6 +5,7 @@ This is an updated version of FakeByte's implementation of Epic Online Services,
 The package constists of: Updated EOS Transport, Mirror Networking
 
 Supported Unity versions: 2021.3.9 or higher
+
 Mirror version:  2022.9.15
 
 For setup guide please visit FakeByte's github page: https://github.com/FakeByte/EpicOnlineTransport
