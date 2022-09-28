@@ -1,4 +1,4 @@
-# EOS-Transport-for-Unity
+# EOS Transport for Unity
 
 This is an updated version of FakeByte's implementation of Epic Online Services, compatible with the latest version of Mirror.
 
